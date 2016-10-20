@@ -1,0 +1,22 @@
+.img {
+    float: right;
+    margin-right: 3%;
+}
+
+table {
+    margin-top: 3%;
+    margin-left: 7%;
+    width: 40%;
+}
+
+.first {
+    border-bottom: solid 3px #58951b;
+}
+
+td {
+    border-bottom: solid 1px #58951b;
+    text-align: center;
+    padding: 1%;
+    padding-right: 10%;
+    width: 10%;
+}
